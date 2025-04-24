@@ -1,0 +1,2 @@
+a = "https://analyzr-llama-33-70b-test.eastus2.models.ai.azure.com/chat/completions"
+b = "o5Ko0yHozfM8DYg9ogQe7lsx0SUXhJtL"
