@@ -5,23 +5,32 @@
   "results": [
     {
       "section_id": "(1.1)",
-      "error": "Unexpected response format",
-      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+      "section_text": "(1.1) First Section\n        This is content of the first section which discusses important concepts....",
+      "questions": [
+        "What are the key areas to focus on for this topic?"
+      ]
     },
     {
       "section_id": "(1.2)",
-      "error": "Unexpected response format",
-      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+      "section_text": "(1.2) Second Section\n        In this section, we examine the relationship between various factors.\n ...",
+      "questions": [
+        "How do these factors influence outcomes?"
+      ]
     },
     {
       "section_id": "(2.1)",
-      "error": "Unexpected response format",
-      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+      "section_text": "(2.1) Another Major Section\n        This section introduces new methodologies and frameworks.\n      ...",
+      "questions": [
+        "Which framework is most appropriate for different scenarios?",
+        "How can these methodologies be adapted to specific contexts?"
+      ]
     },
     {
       "section_id": "(2.1.1)",
-      "error": "Unexpected response format",
-      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+      "section_text": "(2.1.1) Subsection with more detail\n        Here we dive deeper into specific aspects of the framewo...",
+      "questions": [
+        "What are the limitations of this approach?"
+      ]
     }
   ]
 }
