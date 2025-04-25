@@ -1,0 +1,27 @@
+{
+  "file": "pdf_files\\CDP_2024_Corporate_Questionnaire_Guidance_Modules_1-6-debug-extraction.txt",
+  "total_sections": 5,
+  "processed_sections": 4,
+  "results": [
+    {
+      "section_id": "(1.1)",
+      "error": "Unexpected response format",
+      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+    },
+    {
+      "section_id": "(1.2)",
+      "error": "Unexpected response format",
+      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+    },
+    {
+      "section_id": "(2.1)",
+      "error": "Unexpected response format",
+      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+    },
+    {
+      "section_id": "(2.1.1)",
+      "error": "Unexpected response format",
+      "raw_response": "{'status': 'Unavailable', 'message': 'URL not specified'}"
+    }
+  ]
+}

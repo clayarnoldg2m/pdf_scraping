@@ -1,0 +1,18 @@
+
+
+original method: 
+extracts text effectively 
+1) next steps: likely doing a re.split on section would make sense, and then using the LLM section by section to extract Qs and As to the questionaire. 
+2) then give a structured json output for the questions and answers within each section (w/ and the overall json is a list of questions)
+if we can get 1), then we could put the output into a txt if we want to as well
+
+
+attempted method: 
+ extract tables to json to end up with a result like this...  {sections: [section name: '', tables: [tables given in structured format]]}
+however, this turned out to be difficult because they aren't to extract Qs and As to the questionaire
+I am wondering how differen thet the other files  "real" pdf tables, and the syntax for section seperation is not particularly reliable. 
+
+
+conclusion: 
+some progress made, we can extract text but it's not in a perfectly intelligible way yet. to use the LLM to get Qs and As, we need to split it up, and the best method would likely be section by section, since questions within a section are relaed to each other. 
+I am wondering how different the other files 

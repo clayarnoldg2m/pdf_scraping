@@ -1,0 +1,23 @@
+
+        Introduction to the document
+        
+        (1.1) First Section
+        This is content of the first section which discusses important concepts.
+        What are the key areas to focus on for this topic?
+        The document highlights several approaches to consider when implementing these ideas.
+        
+        (1.2) Second Section
+        In this section, we examine the relationship between various factors.
+        How do these factors influence outcomes?
+        It's important to understand the implications for practical applications.
+        
+        (2.1) Another Major Section
+        This section introduces new methodologies and frameworks.
+        Which framework is most appropriate for different scenarios?
+        Consider how these methodologies can be adapted to specific contexts.
+        
+        (2.1.1) Subsection with more detail
+        Here we dive deeper into specific aspects of the framework.
+        What are the limitations of this approach?
+        Several case studies demonstrate successful implementation.
+        
