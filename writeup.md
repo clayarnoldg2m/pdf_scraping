@@ -38,3 +38,8 @@ I am wondering how different the other files are from what we've processed so fa
 ## Conclusion
 
 We can extract text but need better section splitting to process Q&A pairs using an LLM approach.
+
+
+need to prompt vendor by vender (45)
+
+hey, let's get the first 2 done in a slightly more manual way. 
